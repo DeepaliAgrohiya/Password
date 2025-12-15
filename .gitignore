@@ -2,3 +2,22 @@ node_modules/
 dist/
 .env
 *.log
+
+# Node modules (both frontend and backend)
+node_modules/
+
+# Build/dist folders
+dist/
+build/
+
+# Environment files
+.env
+
+# Log files
+*.log
+
+# MacOS system files
+.DS_Store
+
+# Vite / React cache
+.vite/
